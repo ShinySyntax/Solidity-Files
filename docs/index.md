@@ -16,4 +16,4 @@ x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files<br>
 
 Having trouble with Solidity Files? Check out our [documentation](https://github.com/aramservices198/Solidity-Files/wiki/) or [contact support](mailto:aramservices198@gmail.com) and we’ll help you sort it out.
 
-[Github Desktop](file://C:\Users\bilal\OneDrive\Documents\GitHub\Solidity-Files)            [Solidity Folder](file://C:\Users\bilal\Desktop\Solidity)
+[Github Desktop](C:\Users\bilal\OneDrive\Documents\GitHub\Solidity-Files)            [Solidity Folder](C:\Users\bilal\Desktop\Solidity)
