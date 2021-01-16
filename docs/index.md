@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aramservices198/Solidity-Files/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to [Solidity Files on Github](https://github.com/aramservices198/Solidity-Files).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,10 +26,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aramservices198/Solidity-Files/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Download
+[ZIP File](https://github.com/aramservices198/Solidity-Files/archive/main.zip)
+[Github Desktop](x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files)
+[Clone via HTTPS](https://github.com/aramservices198/Solidity-Files.git)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Solidity Files? Check out our [documentation](https://github.com/aramservices198/Solidity-Files/wiki/) or [contact support](mailto:aramservices198@gmail.com) and we’ll help you sort it out.
+
+[Github Desktop](file://C:\Users\bilal\OneDrive\Documents\GitHub\Solidity-Files)            [Solidity Folder](file://C:\Users\bilal\Desktop\Solidity)
