@@ -4,9 +4,7 @@
 ### Download
 [ZIP File](https://github.com/aramservices198/Solidity-Files/archive/main.zip)<br>
 
-[Github Desktop](x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files)(Github Desktop may not work. Visit [this link]<br>
-
-(https://github.com/aramservices198/Solidity-Files) and click Code(in green color) and click Open with Github Desktop.<br>
+[Github Desktop](x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files)(Github Desktop may not work. Visit [this link](https://github.com/aramservices198/Solidity-Files) and click Code(in green color) and click Open with Github Desktop.<br>
 
                                               Or<br>
 Copy and Paste this in your browser:
