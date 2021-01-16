@@ -1,34 +1,18 @@
-## Welcome to [Solidity Files on Github](https://github.com/aramservices198/Solidity-Files).
+## Welcome to [Solidity Files on Github](https://github.com/aramservices198/Solidity-Files)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Download
-[ZIP File](https://github.com/aramservices198/Solidity-Files/archive/main.zip)
-[Github Desktop](x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files)
+[ZIP File](https://github.com/aramservices198/Solidity-Files/archive/main.zip)<br>
+
+[Github Desktop](x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files)(Github Desktop may not work. Visit [this link]<br>
+
+(https://github.com/aramservices198/Solidity-Files) and click Code(in green color) and click Open with Github Desktop.<br>
+
+                                              Or<br>
+Copy and Paste this in your browser:
+
+x-github-client://openRepo/https://github.com/aramservices198/Solidity-Files<br>
+
 [Clone via HTTPS](https://github.com/aramservices198/Solidity-Files.git)
 
 ### Support or Contact
