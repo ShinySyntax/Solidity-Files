@@ -1,5 +1,5 @@
 pragma solidity 0.5.1;
-contract Wallet_ETH {
+contract Ethereum_Wallet {
     mapping(address => uint256) public balances;
     address payable wallet;
     event Purchase(address indexed _buyer, uint256 _amount);
